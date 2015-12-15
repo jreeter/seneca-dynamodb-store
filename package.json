@@ -10,9 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.2.22",
-    "dynamodb": "^0.3.6",
     "dynamodb-data-types": "^2.1.0",
     "lodash": "^3.10.1",
     "node-uuid": "^1.4.7"
+  },
+  "devDependencies": {
+    "seneca": "^0.9.2"
   }
 }
